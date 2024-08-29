@@ -16,9 +16,9 @@ Following are the steps taken:
 
 This is how my dashboard looked like-
 
-### Transaction report:
+# Transaction report:
 ![P_BI_1](https://github.com/user-attachments/assets/5bf52c9a-81e8-44a7-823b-565583579e86)
 
 
-### Customer report:
+# Customer report:
 ![P_BI_2](https://github.com/user-attachments/assets/eb0a3883-eb02-403b-87f6-f99e83f909eb)
